@@ -1,0 +1,13 @@
+
+
+#brand {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: rgb(65, 107, 212);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
